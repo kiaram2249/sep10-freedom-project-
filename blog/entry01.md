@@ -15,7 +15,7 @@ Right now I'm at Step 1 (defining) and Step 2 (researching). Last week we were d
 
 Some skills that I have learned from working on this blog are **How to read**, **Attention to detail**, and **Collaboration**
 
-<h4HI</h4>
+<h4>HI</h4>
 
 
 
