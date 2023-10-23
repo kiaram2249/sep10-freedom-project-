@@ -15,14 +15,18 @@ Right now I'm at Step 1 (defining) and Step 2 (researching). Last week we were d
 
 Some skills that I have learned from working on this blog are **How to read**, **Attention to detail**, and **Collaboration**
 
-<h4>HI</h4>
+<h4>How to read</h4>
 
+When I was in google searching for the articles or the websites, I knew which ones to look at because my BHP teacher taught me how to research things online and how to tell which ones are useful and reliable. She taught us how to tell if the article or website is good or not. She told us that we should look at where the website / article is made from. Fr instance, the _"What is Criminology"_ it was made from an university. She also told us to look into the publisher of the articles or websites and to see if the publisher is reliable and is knowledgeable to the topic. 
 
+<h4>Attention to detail</h4>
 
+Every time I was writing down a code or writing about the topic, I would always make sure that there were no typos or no incorrect codes. For making sure I wasn't making any typos I would always copy and paste what I wrote and put it into a google doc form, so that the auto correction can show up so that I can fix my writing. However, to make sure that I have no incorrect codes I would ask one of my friends to reread what I wrote and to look over my codes to make sure that I have written them correctly. Or I would go to my notes or slides to make sure that I have written my code correctly as well. 
 
+<h4>Collaboration</h4>
 
+For collaboration, I learnt that it is ok to ask for help from time to time, and that working with a pair can be beneficial for me and for my partner as well. Collaboration also helped me with my communication skills a bit because in order to collaborate I need to know how to communicate as well. Without the communication skill I wouldn't be able to collaborate with others. It also helped me because I was able to get other people's opinions and feedback, and that helped me improve in some ways. 
 
+<h2>Professionalism</h2>
 
-[Next](entry02.md)
-
-[Home](../README.md)
+I'm conveying my learning by using all the things that I have learnt from my teachers, from `Tiny.cc/fccwd`, from `Html`, from `Markdown`, and from my friends as well. I have learnt many different kinds of coding and format and how to use them as well. I am using all of my learning and coding skills in order to make this first blog. I have used some of the html codes for instance I used the headers `<h1></h1>`. As well I used some of the markdown codes, for example I used this `*` to make my words in bold, I used `_` in order to make some words in italic and I also used the code snippet as well. 
