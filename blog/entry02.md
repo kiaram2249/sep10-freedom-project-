@@ -11,7 +11,9 @@
 * [How Technology Is Used for Criminal Investigations](https://www.openfox.com/how-technology-is-used-for-criminal-investigations/#:~:text=Law%20enforcement%20officials%20use%20data,them%20in%20their%20criminal%20investigations)
 * [The Role of Social Media and Technology in Criminology](https://samples.freshessays.com/the-role-of-social-media-and-technology-in-criminology.html).
 
-## 
+## Criminology Software:
+
+
 
 
 
