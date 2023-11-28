@@ -15,6 +15,15 @@ Criminology uses technology in order to help them when investigating. Criminolog
 
 ## Criminology Software:
 
+When I was first doing my research about `Criminology Software` the first thing that I decided to search in Google was **Criminology Technology Software**. Once I searched that up the first thing that I saw was [How Technology Is Used for Criminal Investigations](https://www.openfox.com/how-technology-is-used-for-criminal-investigations/). This website was reliable to me because it had parts explaining and showing what types of softwares technology that Criminology uses when doing investigations. 
+* Facial Recognition Software:
+   * "`Facial recognition` technology is capable of matching human faces from video frames or digital images against a database of faces."
+   * `Retina & Fingerprint Scans`
+
+After I was done looking into that website I decided to look even more further. While looking through Google I came across another website called, [8 Types Of Police Software And Their Uses](https://www.openfox.com/8-types-of-police-software-and-their-uses/ ). This website went even more deeper because in this website : TBC
+
+
+ 
 
 
 
@@ -29,7 +38,6 @@ Criminology uses technology in order to help them when investigating. Criminolog
 
 
 
-Right now I'm at Step 1 (defining) and Step 2 (researching). Last week we were defining what we wanted to do and what career interested us. We were trying to pick 3 topics that we were passionate about, and then we picked our 1st topic that we were interested to write about. After we have chosen a topic we go into a deep search, researching about that topic and how technology has helped that career. However, for now I am still working on Step 2 (researching), I am trying to find more articles, and websites for my topic and how technology helped my topic. So, before I move on to Step 3, I want to still take my time and work on Step 2 for the time being.
 
 
 
