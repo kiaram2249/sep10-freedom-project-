@@ -20,7 +20,7 @@ When I was first doing my research about `Criminology Software` the first thing 
    * "`Facial recognition` technology is capable of matching human faces from video frames or digital images against a database of faces."
    * `Retina & Fingerprint Scans`
 
-After I was done looking into that website I decided to look even more further. While looking through Google I came across another website called, [8 Types Of Police Software And Their Uses](https://www.openfox.com/8-types-of-police-software-and-their-uses/ ). This website went even more deeper because in this website : TBC
+After I was done looking into that website I decided to look even more further. While looking through Google I came across another website called, [8 Types Of Police Software And Their Uses](https://www.openfox.com/8-types-of-police-software-and-their-uses/ ). This website went even more deeper because in this website it showed me different other software technologies that Criminology uses.
 
 
  
