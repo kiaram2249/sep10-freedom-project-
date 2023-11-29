@@ -25,8 +25,8 @@ After I was done looking into that website I decided to look even further. While
 
 ### Software Technologies:
 
-* Background Check Software:
-* Investigation Software:
+* Background Check Software
+* Investigation Software
 * Facial Recognition Software
 * Case Management Software
 * Reporting Software
@@ -34,8 +34,10 @@ After I was done looking into that website I decided to look even further. While
 * Scheduling Software
 * Database Software
 
+## Criminology Hardware:
  
- 
+When I was done looking into software technologies that Criminology uses, it was now time to look at Hardware. This time instead of looking at **software** I was gonna look at different **hardwares** that Criminology uses when doing investigations. So, the first thing that I did when going to Google was searching up `Criminology Hardware`. However, when I searched that up I realized that there wasn't that much information about it. So, I decided to do a bit more of a deep search. Instead of me searching up **Criminology Hardware** I instead searched up `What sort of Hardware do Criminologist use`. 
+
 
 
 
