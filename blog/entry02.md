@@ -37,6 +37,7 @@ After I was done looking into that website I decided to look even further. While
 ## Criminology Hardware:
  
 When I was done looking into software technologies that Criminology uses, it was now time to look at Hardware. This time instead of looking at **software** I was gonna look at different **hardwares** that Criminology uses when doing investigations. So, the first thing that I did when going to Google was searching up `Criminology Hardware`. However, when I searched that up I realized that there wasn't that much information about it. So, I decided to do a bit more of a deep search. Instead of me searching up **Criminology Hardware** I instead searched up `What sort of Hardware do Criminologist use`. Once I did that I found an website called [What Are Criminologist Skills?](https://www.indeed.com/career-advice/resumes-cover-letters/criminologist-skills ). This website explained what Criminology is and the technology they use a bit. 
+
 * Technology:
    * “Some criminologists may work with complicated technology to analyze large amounts of data. They may also use computers to create readable reports. Although the technical requirements may vary, a career as a criminologist may require basic computer skills or competency.”
 
@@ -55,24 +56,19 @@ This website was good, but it didn't gave a lot of information that much. So, I 
 * While doing my research I was able to find a youtube video on what type of Hardware that Criminology uses.
    * [Criminology, Surveillance and Technology - Lecture Showcase](https://www.youtube.com/watch?v=gEqa7fsuntk)
 
-## Engineering Design Process
+# Engineering Design Process
 
+Right now I am still in Step 2 (researching). I am still researching because I had to research what `Software` and `Hardware` that Crimimnology uses. I think I'm still gonna be in the Step 2 because I still need to research a bit more information so that it can help me with the next step. The next step would be **Step 3** `Brainstorm`. For that step I would have to brainstorm a possible solutions. However, it would take me some time for me to get to that next step. So, for now I'm gonna work on my research a bit more. 
 
+# Skills
 
+### How to read
 
+While searching in Goolge for websites or articles, I knew which onces to look at because my BHP teacher taught me how to research things online. She also taught us how to tell which ones are useful and reliable. So, when searching for websites I need to look at who made it, who that person is, and if the website is reliable or not. 
 
+### Attention to detail
+Every time I was writing down a code or writing about the topic, I would always make sure that there were no typos or no incorrect codes. For making sure I wasn't making any typos I would always copy and paste what I wrote and put it into a google doc form, so that the auto correction can show up so that I can fix my writing. However, to make sure that I have no incorrect codes I would ask one of my friends to reread what I wrote and to look over my codes to make sure that I have written them correctly. Or I would go to my notes or slides to make sure that I have written my code correctly as well.
 
+# Professionalism
 
-
-
-
-
-
-
-
-
-
-
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
+I'm conveying my learning by using all the things that I have learnt from my teachers, from `Tiny.cc/fccwd`, from `Html`, from `Markdown`, and from my friends as well. I have learnt many different kinds of coding and format and how to use them as well. I used some markdown codes in order to write my blog number 2. I used `**(example)**` in order to make my words go bold, I used `* (example)` in order to make bullet points, and `code snippet` in order to snippet my codes, a words or a sentence. All of those codes I learnt them from **Markdown**. 
