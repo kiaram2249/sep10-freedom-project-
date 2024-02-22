@@ -15,6 +15,7 @@ I picked `A-frame` because A-frame is based on **HTML** and I know how to use HT
 
 When I was tinkering with A-frame the only place that I did it in was **jsbin**. I copied that code that was provided for me in the A-frame website and once I pasted it to **jsbin** that's when I started to tinker. I started to added more 3D shapes, change the positioning, and I also changed up some colors.
 
+#### A-frame provided code
 ```
 <html>
   <head>
@@ -29,4 +30,27 @@ When I was tinkering with A-frame the only place that I did it in was **jsbin**.
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
-</html>```
+</html>
+```
+
+##### Tinkering
+
+```
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-cone position="0.4 0.4 -0.6" rotation="0 22 0" color="lightgreen"></a-cone>
+      <a-box position="1 0.5 -1.7" rotation="0 33 0" color="brown"></a-box>
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="pink"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
+![image](https://github.com/kiaram2249/sep10-freedom-project-/assets/146884636/3951556b-3d29-4e8b-946b-38d3bb83b1fb)
