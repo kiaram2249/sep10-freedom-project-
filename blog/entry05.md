@@ -82,8 +82,6 @@ Another challenge that I have is the breakpoints because when I was trying to ma
 [My bootstrap-grid-practice](https://github.com/hstatsep-students/bootstrap-grid-practice-kiaram2249/blob/main/index.html)
 : This is what I did and I'm not to sure if I did it right or not. But my goal is to keep on practicing so that I can have a good understaing of it and if I still don't understand I can always go to my friends, classmates, or my teacher. 
 
-Text
+### Takeaway
 
-[Previous](entry04.md) | [Next](entry06.md)
-
-[Home](../README.md)
+A takeaway that I can take from this week and last week is that I realize how **Bootstrap** is powerful because Bootstrap has so many pre-made codes and it has so many `containers`, `components`, `layouts`, and `customize`. Bootstrap can make a website into something wonderful because Bootstrap has so many things to add to a website. Also, bootstrap can help users by not making them write many codes since Bootstrap has already pre-made codes for them. So, it makes coding a lot more faster. As well it can make things faster when uploading / updating something. 
