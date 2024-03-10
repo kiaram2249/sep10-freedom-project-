@@ -24,11 +24,15 @@ Bootstrap is a powerful feature-packed because it builds anything from prototype
 
 **Containers** are important when using Bootstrap because containers contains **pad** and **align**. It gives your content within a given device or viewport. Containers are the most **basic** layout element in Bootstrap and are required when using a default grid system. However, users don't have to use a container because a container helps **center** or put a **padding** on the user content and it can be nested as well. So, when using containers you need to know that most layouts of the container don't really need to be nested inside another container. Also, there are many different kinds of containers in Bootstrap, there's 7 different kinds of containers and each container change the breaking point based on the sizes. 
 
+* `.container`, which sets a max-width at each **responsive breakpoint**
+* `.container-{breakpoint}`, which is width: 100% until the **specified breakpoint**
+* `.container-fluid`, which is width: 100% at **all breakpoints**
+
 ![image](https://github.com/kiaram2249/sep10-freedom-project-/assets/146884636/e9d3ce6c-0882-494f-80de-5fcf15627779)
 
-Containers are helpful because it can create different breaking points and it can help when trying to make a **cols / row**. For instance, using `container-{breakpoint}` can help with the breakpoint since it's width is 100% until the specified breakpoint. I try to use container when I was given homework to do in order to practice more. 
+Containers are helpful because it can create different breaking points and it can help when trying to make a **cols / row** or when you want to display something in a way for your website. It's also helpful because it allows your content to be view on different view screens. For instance, if your website looks good on a phone device but you want it to look good in all devices you can use containers in order to do that. 
 
-### My code for container
+### How I used container: 
 
 ```
  <div class="container-fluid">
