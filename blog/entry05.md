@@ -5,7 +5,7 @@
 
 Bootstrap is a powerful feature-packed because it builds anything from prototype to production and it's a free front-end framework for faster and easier web development. Bootstrap uses **HTML** and **CSS** in order to make based design templates. It can create **buttons**, **tables**, **navigation**, **modals**, **image**, and many other more. Bootstrap as well inclues **containers** because containers allows the background to fill the page and it keeps the content from reaching the edges. 
 
-## Containers
+### Containers
 
 **Containers** are important when using Bootstrap because containers contains **pad** and **align**. It gives your content within a given device or viewport. Containers are the most **basic** layout element in Bootstrap and are required when using a default grid system. However, users don't have to use a container because a container helps **center** or put a **padding** on the user content and it can be nested as well. So, when using containers you need to know that most layouts of the container don't really need to be nested inside another container. Also, there are many different kinds of containers in Bootstrap, there's 7 different kinds of containers and each container change the breaking point based on the sizes. 
 
@@ -72,6 +72,15 @@ In Bootstrap their are many **components** to use and learn about. Bootstrap has
 <button type="button" class="btn btn-light" id="color2">Recommendation</button>
 <button type="button" class="btn btn-dark" id="color3">Voice Actors</button>
 ```
+
+### Challenges
+
+A challenge that I had when using **Bootstrap** is when I wanted to color the colors that I wanted. That made not seem like a challenge but it was a challenge for me because Bootstrap has color already placed down. So, when I copied a code from Bootstrap and tried to tinker with things I noticed that Bootstrap have color all ready placed even when theirs no **CSS** into my code yet. When I put an **CSS** into my **github** or my **IDE** that colors wouldn't color at all. I was confused and didn't know how to make it change until the next day in SEP class my teacher said that `!important` make your changes over write the Bootstrap code. Meaning that if I wanted the color yellow but Bootstrap already has a color set based on it's code all I have to do is put `!important` next to the code that I written so that the computer can notice that my code that I just wrote in important. 
+
+Another challenge that I have is the breakpoints because when I was trying to make my content go into different breaking point based on the different sizes. I couldn't see the different breakpoint everytime I changed the screen sizes. I don't really understand why nothing was changing, but I think I did something wrong. 
+
+[My bootstrap-grid-practice](https://github.com/hstatsep-students/bootstrap-grid-practice-kiaram2249/blob/main/index.html)
+This is what I did and I'm not to sure if I did it right or not. But my goal is to keep on practicing so that I can have a good understaing of it and if I still don't understand I can always go to my friends, classmates, or my teacher. 
 
 Text
 
