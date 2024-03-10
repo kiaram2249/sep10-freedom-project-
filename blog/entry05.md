@@ -26,7 +26,21 @@ Bootstrap is a powerful feature-packed because it builds anything from prototype
 
 ![image](https://github.com/kiaram2249/sep10-freedom-project-/assets/146884636/e9d3ce6c-0882-494f-80de-5fcf15627779)
 
+Containers are helpful because it can create different breaking points and it can help when trying to make a **cols / row**. For instance, using `container-{breakpoint}` can help with the breakpoint since it's width is 100% until the specified breakpoint. I try to use container when I was given homework to do in order to practice more. 
 
+### My code for container
+
+```
+ <div class="container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                       <p>example</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+```
 
 
 
