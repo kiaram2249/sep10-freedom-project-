@@ -1,21 +1,6 @@
 # Boostrap Writeup
 ##### 3/10/2024
 
-Is a free front-end framework for faster and easier web development
-We can import it just like we do with any other (CSS) file
-Includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JS plugins
-Mostly just by giving elements pre-made classes
-Gives you the ability to easily create responsive design
-
-.container vs .container-fluid
-.container is fixed width
-.container-fluid is 100% width
-A common practice is to put a .container inside of a .container-fluid
-This allows the background to fill the page, but keeps the content from reaching the edges
-.container-SIZE will behave like .container-fluid on anything smaller than SIZE
-
-Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
-
 ## What is Booststrap?
 
 Bootstrap is a powerful feature-packed because it builds anything from prototype to production and it's a free front-end framework for faster and easier web development. Bootstrap uses **HTML** and **CSS** in order to make based design templates. It can create **buttons**, **tables**, **navigation**, **modals**, **image**, and many other more. Bootstrap as well inclues **containers** because containers allows the background to fill the page and it keeps the content from reaching the edges. 
@@ -50,7 +35,11 @@ Containers are helpful because it can create different breaking points and it ca
         </div>
 ```
 
+### Components
 
+In Bootstrap their are many **components** to use and learn about. Bootstrap has many components that are already have pre-made codes that people can use. Bootstrap even have different way in coding that one same component that user picked. Components are helpful because it allows the user to customize their website and it allows them to have many features added to their website. For instance, I used **navbar**, **close button**, and the **buttons** when I was practicing components. 
+
+* **Navbar** 
 
 
 
