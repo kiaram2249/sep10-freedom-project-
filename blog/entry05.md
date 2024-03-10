@@ -39,11 +39,39 @@ Containers are helpful because it can create different breaking points and it ca
 
 In Bootstrap their are many **components** to use and learn about. Bootstrap has many components that are already have pre-made codes that people can use. Bootstrap even have different way in coding that one same component that user picked. Components are helpful because it allows the user to customize their website and it allows them to have many features added to their website. For instance, I used **navbar**, **close button**, and the **buttons** when I was practicing components. 
 
-* **Navbar** 
+#### The Navbar that I used: 
+```
+<nav class="navbar navbar-expand-lg navber-light bg-light" id="Scroll">
+   <div class="container-fluid">
+     <a class="navbar-brand" href="#">ANIME</a>
+     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-                       controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+       <span class="navbar-toggler-icon"></span>
+     </button>
+     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+       <div class="navbar-nav">
+         <a class="nav-link" href="#Manga">Manga</a>
+         <a class="nav-link" href="#Anime Movies">Anime Movies</a>
+         <a class="nav-link" href="#Anime Episodes">Anime Episodes</a>
+       </div>
+     </div>
+   </div>
+ </nav>
+```
 
+#### The closing button that I used:
+```
+ <div data-bs-theme="light">
+   <button type="button" class="btn-close" aria-label="Close"></button>
+   <button type="button" class="btn-close" disabled aria-label="Close"></button>
+ </div>
+```
 
-
-
+#### The Button that I used: 
+```
+<button type="button" class="btn btn-info" id="color1">Manga Shop</button>
+<button type="button" class="btn btn-light" id="color2">Recommendation</button>
+<button type="button" class="btn btn-dark" id="color3">Voice Actors</button>
+```
 
 Text
 
