@@ -28,11 +28,15 @@ Bootstrap is a powerful feature-packed because it builds anything from prototype
 * `.container-{breakpoint}`, which is width: 100% until the **specified breakpoint**
 * `.container-fluid`, which is width: 100% at **all breakpoints**
 
+#### Containers
 ![image](https://github.com/kiaram2249/sep10-freedom-project-/assets/146884636/e9d3ce6c-0882-494f-80de-5fcf15627779)
 
 Containers are helpful because it can create different breaking points and it can help when trying to make a **cols / row** or when you want to display something in a way for your website. It's also helpful because it allows your content to be view on different view screens. For instance, if your website looks good on a phone device but you want it to look good in all devices you can use containers in order to do that. 
 
-### How I used container: 
+#### Breakpoints
+![image](https://github.com/kiaram2249/sep10-freedom-project-/assets/146884636/a880d92a-2df7-4b6d-b9cd-f9db404aaca8)
+
+#### How I used container: 
 
 ```
  <div class="container-fluid">
@@ -45,6 +49,7 @@ Containers are helpful because it can create different breaking points and it ca
             </div>
         </div>
 ```
+
 
 
 
