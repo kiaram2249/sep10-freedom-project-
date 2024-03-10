@@ -80,7 +80,7 @@ A challenge that I had when using **Bootstrap** is when I wanted to color the co
 Another challenge that I have is the breakpoints because when I was trying to make my content go into different breaking point based on the different sizes. I couldn't see the different breakpoint everytime I changed the screen sizes. I don't really understand why nothing was changing, but I think I did something wrong. 
 
 [My bootstrap-grid-practice](https://github.com/hstatsep-students/bootstrap-grid-practice-kiaram2249/blob/main/index.html)
-This is what I did and I'm not to sure if I did it right or not. But my goal is to keep on practicing so that I can have a good understaing of it and if I still don't understand I can always go to my friends, classmates, or my teacher. 
+: This is what I did and I'm not to sure if I did it right or not. But my goal is to keep on practicing so that I can have a good understaing of it and if I still don't understand I can always go to my friends, classmates, or my teacher. 
 
 Text
 
