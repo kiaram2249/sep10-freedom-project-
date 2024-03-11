@@ -16,7 +16,7 @@ Tool: **A-frame**
 * Next time I'm gonna do a mini website practice and trying to see what my website would look like if I used A-frame. Or I can start trying to make my website by using A-frame. Basically drawing out a plan in how my website would like if I use A-frame. 
 
 3/11/2024:
-* Today I watch a video that my friend **Nancy** shared with me because we are both doing A-frame. This video showed how to change color by using programmatic animation, set the poistion, giving the sphere context, and setting texture to your 3D object. 
+* Today I watched a video that my friend Nancy shared with me because we are both doing A-frame. This video showed how to change color by using programmatic animation, setting the position, giving the sphere context, and setting texture to your 3D object. 
 * [Easily code a virtual reality web experience with A-Frame (WebVR)](https://www.youtube.com/watch?v=jhEfT9YjLcU&t=576s)
 
 My code that I did based on the video:
