@@ -15,6 +15,50 @@ Tool: **A-frame**
 * Since I couldn't practice in my IDE I just went to practice A-frame in **js-bin**. I just practiced on how to make 3D shapes and I try to memorized how to write a piece of the code. I also, tried to wonder what if I do that or change this. Meaning I was trying to see what would happen if I were to put this or change something from the A-frame code.
 * Next time I'm gonna do a mini website practice and trying to see what my website would look like if I used A-frame. Or I can start trying to make my website by using A-frame. Basically drawing out a plan in how my website would like if I use A-frame. 
 
+3/11/2024:
+* Today I watch a video that my friend Nancy shared with me because we are both doing A-frame. This video showed how to change color by using programmatic animation, set the poistion, giving the sphere context, and setting texture to your 3D object. 
+* [Easily code a virtual reality web experience with A-Frame (WebVR)](https://www.youtube.com/watch?v=jhEfT9YjLcU&t=576s)
+My code that I did based on the video:
+```
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/aframe/0.5.0/aframe.js">
+</script>
+
+<a-scene>
+<a-sphere></a-sphere>
+<a-plane
+src="https://media.giphy.com/media/oYtVHSxngR3lC/giphy.gif"
+width="10" height="10" position="0 0 -2.5" color="black"></a-plane>
+</a-scene>
+
+<script src="index.js"></script>
+
+$ = (queryString) => document.querySelector(queryString);
+
+const shiftHue = (hue) => (hue + 1) % 360;
+
+let hue = 0;
+
+const animate = () => {
+    hue = shiftHue(hue);
+    const color = `hsl(${hue}, 100%, 50%)`;
+    $(`a-sphere`).setAttribute('color', color);
+
+    const variation = Math.sin(Date.now() / 1000);
+
+    const position = `0 ${1.5 + variation} -2`;
+    $('a-sphere').setAttribute('position', position);
+
+    $('a-sphere').setAttribute('rotation', `-90 0`)
+    $('a-plane').setAttribute('color', color);
+
+    requestAnimationFrame(animate);
+};
+
+requestAnimationFrame(animate);
+```
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
