@@ -70,3 +70,23 @@ requestAnimationFrame(animate);
 * Questions you still have
 * What you're going to try next
 -->
+
+3/18/2024
+
+* [Youtude A-frame](https://www.youtube.com/watch?v=qB8Ejh_QdpE&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=4)
+  * **Aframe = Framework**
+    * Entity
+    * Component
+    * System
+    * Archit
+
+
+
+
+
+
+
+
+
+
+
