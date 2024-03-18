@@ -75,10 +75,11 @@ requestAnimationFrame(animate);
 
 * [Youtude A-frame](https://www.youtube.com/watch?v=qB8Ejh_QdpE&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=4)
   * **Aframe = Framework**
-    * Entity
-    * Component
+    * Entity: **Entity** is just an empty container; (Keep things together) 
+    * Component: are reusable modules that defines what the entity looks like and what it can do. (Specify the type of component) (Specify the type of properties of that componenent)
     * System
-    * Archit
+    * Architecture
+* 
 
 
 
