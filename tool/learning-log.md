@@ -92,7 +92,8 @@ Example in how to write down an entity:
   * Animation
     * Native Aframe API
     * 3rd party Components (found in the Aframe registry)
-
+ 
+Component Method
 ```
 <a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point"></a-entity>
 ```
