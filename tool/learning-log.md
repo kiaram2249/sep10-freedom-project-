@@ -95,7 +95,7 @@ Example in how to write down an entity:
  
 Component Method
 ```
-<a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point"></a-entity>
+<a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point" position="-4 3 -10"></a-entity>
 ```
 
 
