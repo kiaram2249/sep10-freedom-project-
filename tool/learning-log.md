@@ -89,6 +89,7 @@ Example in how to write down an entity:
 ```
 
 * [Youtude A-frame](https://www.youtube.com/watch?v=rl104MfKbW8&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=6)
+* [Aframe school](https://aframe.io/aframe-school/)
   * Animation
     * Native Aframe API
     * 3rd party Components (found in the Aframe registry)
