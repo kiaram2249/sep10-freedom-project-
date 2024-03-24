@@ -88,9 +88,14 @@ Example in how to write down an entity:
 <a-entity geometry="primitive:box" material="color:red" position="-1 0.5 -3"></a-entity>
 ```
 
+* [Youtude A-frame](https://www.youtube.com/watch?v=rl104MfKbW8&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=6)
+  * Animation
+    * Native Aframe API
+    * 3rd party Components (found in the Aframe registry)
 
-
-
+```
+<a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point"></a-entity>
+```
 
 
 
