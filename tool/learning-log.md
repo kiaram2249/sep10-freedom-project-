@@ -81,9 +81,9 @@ requestAnimationFrame(animate);
 
 Example in how to write down an entity: 
 
-'''
+```
 <a-entity component1="property1:value; property2:value;"><a-entity> 
-'''
+```
 
 
 
