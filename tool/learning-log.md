@@ -84,6 +84,9 @@ Example in how to write down an entity:
 ```
 <a-entity component1="property1:value; property2:value;"><a-entity> 
 ```
+```
+<a-entity geometry="primitive:box" material="color:red" position="-1 0.5 -3"></a-entity>
+```
 
 
 
