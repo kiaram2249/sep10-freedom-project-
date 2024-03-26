@@ -99,7 +99,26 @@ Component Method
 <a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point" position="-4 3 -10"></a-entity>
 ```
 
+3/26/2024 Learning Log 5
 
+[Animating Objects (A-Frame Tutorial - WebVR)](https://www.youtube.com/watch?v=p3mNNZ356Ko&list=WL&index=3&t=477s)
+
+```
+<html>
+  <body>
+    <a-scene>
+      <a-box color="pink"
+             position="0 0.5 0">
+             <a-animation attribute="rotation"
+                          to="0 360 0"
+                          repeat="indefinite"
+                          dur="1000">
+             </a-animation>
+      </a-box>
+    </a-scene>
+  </body>
+</html>
+```
 
 
 
