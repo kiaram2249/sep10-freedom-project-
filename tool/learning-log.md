@@ -103,6 +103,7 @@ Component Method
 
 [Animating Objects (A-Frame Tutorial - WebVR)](https://www.youtube.com/watch?v=p3mNNZ356Ko&list=WL&index=3&t=477s)
 
+Example of his code:
 ```
 <html>
   <body>
