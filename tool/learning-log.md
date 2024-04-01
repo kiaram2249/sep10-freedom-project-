@@ -120,6 +120,8 @@ Component Method
 </html>
 ```
 
+* This video is talking about the **different animations** and how to animate in Aframe. He shows how to write down codes in order to make the boxes move. He also talks about different types of animation movements that you can do and use. He examples lightly on position, the dur (_the timing of it_), and the repeat. I liked this video because when our class was doing the AVD I didn't do animation so for me by watching this video it was helpful. It was helpful because now I have some basic knowledge in how to do animation. 
+
 
 
 
