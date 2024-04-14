@@ -13,6 +13,7 @@
 ## Fonts
 * [Lostber](https://fonts.google.com/selection/embed)
 * [Tangerine](https://fonts.google.com/specimen/Tangerine)
+* [Sofia](https://fonts.google.com/selection/embed) 
 
 ## Timeline
 
