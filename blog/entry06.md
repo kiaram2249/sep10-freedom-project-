@@ -25,6 +25,24 @@ Component Method
 <a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point" position="-4 3 -10"></a-entity>
 ```
 
+Animation when using **A-frame**
+```
+<html>
+  <body>
+    <a-scene>
+      <a-box color="pink"
+             position="0 0.5 0">
+             <a-animation attribute="rotation"
+                          to="0 360 0"
+                          repeat="indefinite"
+                          dur="1000">
+             </a-animation>
+      </a-box>
+    </a-scene>
+  </body>
+</html>
+```
+
 
 
 Text
