@@ -88,7 +88,8 @@ width="10" height="10" position="0 0 -2.5" color="black"></a-plane>
 </a-scene>
 
 <script src="index.js"></script>
-
+```
+```
 $ = (queryString) => document.querySelector(queryString);
 
 const shiftHue = (hue) => (hue + 1) % 360;
