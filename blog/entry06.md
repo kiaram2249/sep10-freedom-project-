@@ -133,6 +133,6 @@ I learn the skill **How to learn** because I was learning **A-frame** all on my 
 
 I learn the skill **How to Google** because I had to Google and do research about my tool **A-frame**. I had to find videos from **YouTube** and I had to look into websites that were about A-frame so that I can learn about my tool and start to tinker with it. 
 
+### Professionalism
 
-
-
+I'm conveying my learning by using all of the things that I have learnt from my teacher, my friends, the google slides, and the previous 10th and 11th graders examples. However, I should try practicing A-frame by using my `IDE` and `cs50.dev` a bit more. I also should convey my learning so that I can try to make my **website** / **Freedom Project**. 
