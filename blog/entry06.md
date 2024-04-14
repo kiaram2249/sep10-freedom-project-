@@ -43,11 +43,18 @@ What you learned about your tool
 How you learned your tool
 What did you try/change/make?
 
-### How you learned your tool:
+### How I learned my tool:
 
 I learnt my tool by going to **YouTUbe** and by going to two different **A-frame website**. However, I mostly learnt how to use my tool by watching many **YouTube** videos because in those videos the people talk about _What is A-frame?_, _How to use A-frame_, and the _Different ways in using A-frame_. They really did broke things down one by one and they show you how to write down the code. So, it's easy to follow alone with them and code the same thing with them. These videos also provide the sources that they used and when to go in order to find these learning sources. 
 
+#### The Sources in where I learnt my tool:
 
+* [A-frame](https://aframe.io/docs/1.5.0/introduction/)
+* [Easily code a virtual reality web experience with A-Frame (WebVR)](https://www.youtube.com/watch?v=jhEfT9YjLcU&t=576s)
+* [Youtude A-frame](https://www.youtube.com/watch?v=qB8Ejh_QdpE&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=4)
+* [Youtude A-frame](https://www.youtube.com/watch?v=rl104MfKbW8&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=6)
+* [Aframe school](https://aframe.io/aframe-school/)
+* [Animating Objects (A-Frame Tutorial - WebVR)](https://www.youtube.com/watch?v=p3mNNZ356Ko&list=WL&index=3&t=477s)
 
 
 
