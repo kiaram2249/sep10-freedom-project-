@@ -53,8 +53,27 @@ I learnt my tool by going to **YouTUbe** and by going to two different **A-frame
 
 ### What did I try/change/make? 
 
-Over these times in me learning about my tool **A-frame**. _I try/change/make_ many things and in many ways. For instance, I try changing the shapes **posittion**, **width**, **color**, and **hight**. Another thing that I try to do was **animation** because in one of my sources I watched a video in where the guy was using **animation**. I try doing that when I was tinkering because animation seem very cool when you know how to use it. However I did make something by using **A-frame** and by using **animation** as well by following a video that one of my friends provided me with. 
+Over these times in me learning about my tool **A-frame**. _I try/change/make_ many things and in many ways. For instance, I try changing the shapes **posittion**, **width**, **color**, **adding new shapes** and **hight**. Another thing that I try to do was **animation** because in one of my sources I watched a video in where the guy was using **animation**. I try doing that when I was tinkering because animation seem very cool when you know how to use it. However I did make something by using **A-frame** and by using **animation** as well by following a video that one of my friends provided me with. Making that code required to use **SASS**. So, I guess I try using **SASS** as well when I was learning about my tool. 
 
+The code:
+```
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-cone position="0.4 0.4 -0.6" rotation="0 22 0" color="lightgreen"></a-cone>
+      <a-box position="1 0.5 -1.7" rotation="0 33 0" color="brown"></a-box>
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="pink"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
 The code:
 ```
 <script
