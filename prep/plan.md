@@ -8,12 +8,15 @@
 
 
 ## Colors
-* `#ABC123`
+* Different kinds of blue tones
+* Different kinds of grey tones
+* Different kinds of green tones
+* Different kinds of yellow tones
 
 ## Fonts
 * [Lostber](https://fonts.google.com/selection/embed)
 * [Tangerine](https://fonts.google.com/specimen/Tangerine)
-* [Sofia](https://fonts.google.com/selection/embed) 
+* [Sofia](https://fonts.google.com/selection/embed)
 
 ## Timeline
 
