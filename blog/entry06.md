@@ -115,12 +115,19 @@ const animate = () => {
 requestAnimationFrame(animate);
 ```
 
+### Engineering Design Process
 
+The last blog that I did I was in the process of **Brainstroming** (step 3). To be honest I'm still in the **brainstorming** stage because I have to start brainstorming in how I want my website to look like and how I want it to look like in a moblie size srceen, a table size screen, or a computer size screen. However, I'm also in the process of **plan** and **create** (steps 4 & 5) because since everyone learnt _how to use their tool_, _how to use a temple_, and _how to use wireframe_ we can all now get started in making our **website** / **Freedom Project**. So, since we are now in the stage in **planing** and **creating**, I need to start planing in what I want to do first step by step and I have to start creating it so that I can see the results. 
 
+### Skills
 
+#### Collaboration
 
+I gained the skill of **Collaboration** because since I picked `A-frame`, I also knew other people who were picking **A-frame** as well. For instance, my friend Nancy was doing **A-frame** and together we were exploring the website and we were tinkering together as well. We helped each other out by sharing videos that we found, and _talking about what we did_, _what we understood_, and _what we didn't understood_. 
 
+#### How to learn
 
+I learn the skill **How to learn** because I was learning **A-frame** all on my own. I had to find resouces that were updated or at least somewhat dated so that I can learn how to use **A-frame** and the different ways in how to code / tinker. 
 
 
 
