@@ -129,7 +129,9 @@ I gained the skill of **Collaboration** because since I picked `A-frame`, I also
 
 I learn the skill **How to learn** because I was learning **A-frame** all on my own. I had to find resouces that were updated or at least somewhat dated so that I can learn how to use **A-frame** and the different ways in how to code / tinker. 
 
+#### How to Google
 
+I learn the skill **How to Google** because I had to Google and do research about my tool **A-frame**. I had to find videos from **YouTube** and I had to look into websites that were about A-frame so that I can learn about my tool and start to tinker with it. 
 
 
 
