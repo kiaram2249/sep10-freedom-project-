@@ -12,13 +12,18 @@ While tinkering with **A-frame** I learned a lot of things and a lot new differe
 
 #### What I learnt: 
 
+Example in how to write down an **Entity**:
+```
+<a-entity component1="property1:value; property2:value;"><a-entity> 
+```
+```
+<a-entity geometry="primitive:box" material="color:red" position="-1 0.5 -3"></a-entity>
+```
 
-
-
-
-
-
-
+Component Method
+```
+<a-entity id="lightSphere" geometry="primitive=sphere" material="color:white; shader: flat" light="type:point" position="-4 3 -10"></a-entity>
+```
 
 
 
