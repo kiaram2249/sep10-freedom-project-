@@ -38,11 +38,6 @@ Animation when using **A-frame**
 </html>
 ```
 
-Content: write about…
-What you learned about your tool
-How you learned your tool
-What did you try/change/make?
-
 ### How I learned my tool:
 
 I learnt my tool by going to **YouTUbe** and by going to two different **A-frame website**. However, I mostly learnt how to use my tool by watching many **YouTube** videos because in those videos the people talk about _What is A-frame?_, _How to use A-frame_, and the _Different ways in using A-frame_. They really did broke things down one by one and they show you how to write down the code. So, it's easy to follow alone with them and code the same thing with them. These videos also provide the sources that they used and when to go in order to find these learning sources. 
@@ -56,14 +51,49 @@ I learnt my tool by going to **YouTUbe** and by going to two different **A-frame
 * [Aframe school](https://aframe.io/aframe-school/)
 * [Animating Objects (A-Frame Tutorial - WebVR)](https://www.youtube.com/watch?v=p3mNNZ356Ko&list=WL&index=3&t=477s)
 
+### What did I try/change/make? 
 
+Over these times in me learning about my tool **A-frame**. _I try/change/make_ many things and in many ways. For instance, I try changing the shapes **posittion**, **width**, **color**, and **hight**. Another thing that I try to do was **animation** because in one of my sources I watched a video in where the guy was using **animation**. I try doing that when I was tinkering because animation seem very cool when you know how to use it. However I did make something by using **A-frame** and by using **animation** as well by following a video that one of my friends provided me with. 
 
+The code:
+```
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/aframe/0.5.0/aframe.js">
+</script>
 
+<a-scene>
+<a-sphere></a-sphere>
+<a-plane
+src="https://media.giphy.com/media/oYtVHSxngR3lC/giphy.gif"
+width="10" height="10" position="0 0 -2.5" color="black"></a-plane>
+</a-scene>
 
+<script src="index.js"></script>
 
+$ = (queryString) => document.querySelector(queryString);
 
+const shiftHue = (hue) => (hue + 1) % 360;
 
+let hue = 0;
 
+const animate = () => {
+    hue = shiftHue(hue);
+    const color = `hsl(${hue}, 100%, 50%)`;
+    $(`a-sphere`).setAttribute('color', color);
+
+    const variation = Math.sin(Date.now() / 1000);
+
+    const position = `0 ${1.5 + variation} -2`;
+    $('a-sphere').setAttribute('position', position);
+
+    $('a-sphere').setAttribute('rotation', `-90 0`)
+    $('a-plane').setAttribute('color', color);
+
+    requestAnimationFrame(animate);
+};
+
+requestAnimationFrame(animate);
+```
 
 
 
