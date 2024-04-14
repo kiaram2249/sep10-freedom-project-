@@ -1,8 +1,10 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](Screenshot 2024-04-14 2.02.09 PM.png)
+* [Mobile](Screenshot 2024-04-14 2.02.25 PM.png)
+* [Desktop](Screenshot 2024-04-14 2.01.27 PM.png)
+* [Desktop](Screenshot 2024-04-14 2.01.47 PM.png)
 
 ## Colors
 * `#ABC123`
