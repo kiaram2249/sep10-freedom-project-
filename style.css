@@ -5,4 +5,35 @@
     width: 700px;
 }
 
+.write {
+        font-family: "Lora", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        color: black;
+}
+
+.txt {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.nav-link {
+        font-family: "Lora", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        color: black;
+}
+
+.navbar-brand {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.color {
+    background-color: gray;
+}
 
