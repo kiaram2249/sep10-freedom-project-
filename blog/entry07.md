@@ -3,7 +3,7 @@
 
 ### My Thoughts on this MVP
 
-This **MVP** was a year long project that I had to make over this year. Over these times we were learning how to use `Basic Web Designs` such as **HTML**, **CSS**, **Positioning**, **Geomerty**, and **Animation**.
+This **MVP** was a year long project that I had to make over this year. Over these times we were learning how to use `Basic Web Designs` such as **HTML**, **CSS**, **Positioning**, **Geomerty**, and **Animation**. After we have learnt that we went one learning `Github` and the `Github comments` 
 
 
 
