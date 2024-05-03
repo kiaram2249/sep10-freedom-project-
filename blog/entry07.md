@@ -10,7 +10,7 @@ This **MVP** was a year long project that I had to make over this year. Over the
 #### My process in getting my resources
 ###### Criminology 
 
-Before we had to start our **MVP** I had to plan out what I wanted to put onto my **MVP**. I had to get information about my topic and I had to come up with new technologies for the future. This process was kind of hard and easy to do at the same time because getting iformation wasn't to hard but to be able to look at the many resources and pick them out was hard a bit. It was hard because when I would look at the different websites, some of the websites didn't previded that information that I was looking for. It was even harder when I had to find the different types of software that criminologies uses. 
+Before we had to start our **MVP** I had to plan out what I wanted to put onto my **MVP**. I had to get information about my topic and I had to come up with new technologies for the future. This process was kind of hard and easy to do at the same time because getting iformation wasn't to hard but to be able to look at the many resources and pick them out was hard a bit. It was hard because when I would look at the different websites, some of the websites didn't previded the information that I was looking for. It was even harder when I had to find the different types of software that criminologies uses. But in the end I was able to do it because my friends were helping me a bit and that was very helpful. 
 
 #### My process in learning my tool
 ###### A-frame
