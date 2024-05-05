@@ -45,6 +45,12 @@ I learned the skill **communication** because I was communicating with my peers 
 
 I learned the still in **how to learn** because I had to learn my tool **A-frame** all on my own. I had to tinker and find videos in how to use **A-frame**. I had to slowly learn the tool so that I can use it onto my website and MVP project. This skill will always be with me because I am learning new things everyday, so over time I am learning this skill over and over again. 
 
+## Engineering Design Process
+
+I finished step 4 and step 5 (planing and creating). I'm done with those steps because I planned in how I want my webiste to look like and what I want to do with my **A-frame**. As well I'm done creating it. The next step that I need to go into is step 6 and step 7 (test and improve). When I go into step 6 I want to test and see if my website works that way I want it to work. However, for step 7 I know that I need to make improvements on my website and on to **A-frame** as well because I know that I can do better and make it better as well. So, for now I am gonna focus on step 6 and see if everything works first before making any improvements on it. 
+
+## Professionalism
+
 
 
 
