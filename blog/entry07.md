@@ -29,7 +29,7 @@ Before we had to start our **MVP** I had to plan out what I wanted to put onto m
 
 #### My process in making my MVP
 
-
+Making my **MVP** was a challenge because I didn't know what to start on. There was so many things that I wanted to do but I just didn't know how to do it. So, for the first couple of days of making my **MVP** I first started to make a plan in the steps I'm gonna do. As well I went into **wireframe** so that I can plan out the layout in how I want my website to look like. After I did that I then began to start making my website. To be honest I went and use a **boostrap free templates** and I accidentally used an advance template. When I realized that I was using an advance template I stop using it and I decided to start all over. However, I did use the advance template as inspiration in how I want my website to work / look like. Once I was done making website I then began making my **A-frame**. I didn't know what I wanted to do with my **A-frame** but I did had some ideas in what I wanted to do with it. I wanted to make a "gallery walk" by using A-frame `<a-image> and <a-text>`. But I didn't know how to do that so I asked my friends since they were also using **A-frame**. So, we all decided to be on call and do A-frame together and help each other out. 
 
 
 
