@@ -43,6 +43,7 @@ I learned the skill **communication** because I was communicating with my peers 
 
 #### How to learn
 
+I learned the still in **how to learn** because I had to learn my tool **A-frame** all on my own. I had to tinker and find videos in how to use **A-frame**. I had to slowly learn the tool so that I can use it onto my website and MVP project. This skill will always be with me because I am learning new things everyday, so over time I am learning this skill over and over again. 
 
 
 
