@@ -51,10 +51,5 @@ I finished step 4 and step 5 (planing and creating). I'm done with those steps b
 
 ## Professionalism
 
-
-
-
-
-
-
+I'm conveying my learning by using all of the things that I have learnt from my teacher, my friends, the google slides, and the previous 10th and 11th graders examples. Now I know some coding skills in how to use **A-frame** and how to make a **Website**. I know where I can get the resouces that I need in order to make something and now I practice the skills that I learnt over the nonths in school / class. As well I learned new skills that I haven't learnt before. 
 
