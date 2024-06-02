@@ -32,5 +32,7 @@ I learnt the skill **communication** by speaking in public and presenting my web
 
 I learnt the skill **collboration** by asking my peers and friends for help anytime I was stuck or having a challenge with my code/website. I really like learning this skill because without collboration I wouldn't have been able to over my challenges or gain advice from other peoples perspective. It's always nice to ask for help and relie on others. 
 
+#### How to learn
 
+I learnt the skill **how to learn** by researching information about my topic and about my tool that I pick and use. I did research on _what was Criminology?_, _What Hardware and Software_ they use, and I did lots of reseach in _how I can use A-frame_. I still have to work on this skill because I didn't **LOYO** enough since I didn't put a lot of effort onto my **A-frame**. 
 
