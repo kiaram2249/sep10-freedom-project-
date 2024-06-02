@@ -10,3 +10,8 @@ Once I was finished with my website as well as my peers, we had to get ready for
 ### Sources
 
 * [Expo Elevator Pitch](https://docs.google.com/document/d/1lWhCd83IAL4yUZ63w5GGNII50oTO77gnnxg2DvRQDfg/edit)
+* [Freedom Project](https://kiaram2249.github.io/sep10-freedom-project-/)
+* [Github Code](https://github.com/kiaram2249/sep10-freedom-project-)
+* [Presentation](https://docs.google.com/presentation/d/1QoTBTrxT7GO_IdJ532uCy03W1z-nZoeTeOT_vZFtBDk/edit#slide=id.g2de4be5b86d_0_0)
+* [Wireframe Mobile](https://wireframe.cc/Czcc90)
+* [Wireframe Computer](https://wireframe.cc/RjlUI3)
