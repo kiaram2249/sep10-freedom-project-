@@ -24,11 +24,11 @@ Since I am done with my **Freedom Project** the step that I am at is **step 7 & 
 
 ### Skills
 
-##### Communication
+#### Communication
 
 I learnt the skill **communication** by speaking in public and presenting my website to different grades in **HSTAT** from the **Expo**, as well s peaking in front of my peers. This skill is very helpful because now I can speck to other people and present in front of them without feeling nervous a lot. This skill help me present/speak in front of 9th graders, talking about why they should join **SEP**.
 
-##### Collboration
+#### Collboration
 
 I learnt the skill **collboration** by asking my peers and friends for help anytime I was stuck or having a challenge with my code/website. I really like learning this skill because without collboration I wouldn't have been able to over my challenges or gain advice from other peoples perspective. It's always nice to ask for help and relie on others. 
 
