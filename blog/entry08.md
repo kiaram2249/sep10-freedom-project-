@@ -15,3 +15,22 @@ Once I was finished with my website as well as my peers, we had to get ready for
 * [Presentation](https://docs.google.com/presentation/d/1QoTBTrxT7GO_IdJ532uCy03W1z-nZoeTeOT_vZFtBDk/edit#slide=id.g2de4be5b86d_0_0)
 * [Wireframe Mobile](https://wireframe.cc/Czcc90)
 * [Wireframe Computer](https://wireframe.cc/RjlUI3)
+* [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [A-frame](aframe.io/docs/1.5.0/introduction/)
+
+### Engineering Design Process
+
+Since I am done with my **Freedom Project** the step that I am at is **step 7 & step 8**. Step 7 is **Improve** and step 8 is **Communicate**. I'm in step 7 because I'm gonna try to improve my website and myself as well so that I can be ready for next year SEP class. I want to improve my **HTML**, **CSS**, and the many tools that I learnt. I'm in step 8 because since I have presented my website to my peers and in the **expo**, I am now getting my result ans feedback that I have gotten from my teachers and peers. 
+
+### Skills
+
+##### Communication
+
+I learnt the skill **communication** by speaking in public and presenting my website to different grades in **HSTAT** from the **Expo**, as well s peaking in front of my peers. This skill is very helpful because now I can speck to other people and present in front of them without feeling nervous a lot. This skill help me present/speak in front of 9th graders, talking about why they should join **SEP**.
+
+##### Collboration
+
+I learnt the skill **collboration** by asking my peers and friends for help anytime I was stuck or having a challenge with my code/website. I really like learning this skill because without collboration I wouldn't have been able to over my challenges or gain advice from other peoples perspective. It's always nice to ask for help and relie on others. 
+
+
+
