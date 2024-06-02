@@ -9,4 +9,4 @@ Once I was finished with my website as well as my peers, we had to get ready for
 
 ### Sources
 
-* (Expo Elevator Pitch)[https://docs.google.com/document/d/1lWhCd83IAL4yUZ63w5GGNII50oTO77gnnxg2DvRQDfg/edit]
+* [Expo Elevator Pitch](https://docs.google.com/document/d/1lWhCd83IAL4yUZ63w5GGNII50oTO77gnnxg2DvRQDfg/edit)
